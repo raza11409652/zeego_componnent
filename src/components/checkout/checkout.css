@@ -1,0 +1,174 @@
+.card-body{
+    background-color: #f9f9f9;
+}
+.backk{
+    background-color: white;
+}
+
+.chk-image{
+
+    width: 150rem;
+    height: 33rem;
+}
+.p1{
+
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    color: rgb(22, 31, 106);
+    margin-bottom: 5px;
+}
+.p2{
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color:rgb(119, 121, 140);
+    margin-bottom: 5px;
+}
+.p3{
+
+    font-family: Lato, sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+    color:rgb(119, 121, 140);
+    margin-bottom: 5px;
+}
+.p4{
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    color: rgb(22, 31, 106);
+}
+.abc{
+    background-color: white;
+    color: rgb(0, 158, 127);
+    width: 5rem;
+    height: 4rem;
+    border-color: rgb(0, 158, 127);
+    font-family: Lato,sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.aref{
+    font-family: Lato, sans-serif;
+    color: rgb(119, 121, 140);
+    cursor: pointer;
+    font-weight: 400;
+    margin: 10px;
+    font-size: 15px;
+}
+.menus{
+    background-color: white;
+    width: auto;
+    height: 5rem;
+    border-radius: 5px;
+}
+.mn{
+
+    margin-left: -10.2rem;
+    font-family: Lato,sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: rgb(22, 31, 106);
+
+}
+.plus-icon{
+    width: 1.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+}
+.plus-icon:hover{
+    color:rgb(0, 158, 127);
+    border-color: rgb(0, 158, 127);
+
+}
+.p5{
+    font-family: Lato,sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    color: rgb(22, 31, 106);
+}
+
+.mb-5{
+    margin-bottom: rem;
+}
+.cart{
+    position: sticky;
+    box-shadow: 1px 1px 2px 2px gainsboro;
+    border-radius: 0%;
+}
+
+.card-text{
+    color:rgb(22, 31, 106);
+}
+
+.offer{
+
+    font-family: Lato,sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(22, 31, 106);
+
+}
+
+
+.english{
+
+    color: rgb(0, 158, 127);
+    background-color: white;
+    width: 3rem;
+    font-size: 15px;
+    height: 2.2rem;
+    font-weight: 700;
+    border-radius: 5px;
+    width: 5rem;
+    border:1px solid;
+    margin-left:1rem;
+    margin-right: 2rem;
+  
+  }
+  .h6{
+
+    margin-right: 10rem;
+  }
+  .btn-check{
+      width: 100%;
+      background-color: rgb(0, 158, 127);
+      color: white;
+      border-radius: 5rem;
+      height: 3.2rem;
+
+  }
+  .boxs{
+
+
+      width: 100%;
+      background-color: rgb(0, 158, 127);
+      color: white;
+      border-radius: 5rem;
+      height: 3.2rem;
+      cursor: pointer;
+  }
+  .checkbtn{
+      margin-top:0.8rem;
+      margin-right: 2.5rem;
+      font-weight: bold;
+  }
+  .box-pay{
+      width: 58%;
+      background-color: white;
+      height: 2.8rem;
+      margin-left: 4.8rem;
+      margin-bottom: 2rem;
+      border-radius: 5.5rem;
+      color: rgb(0, 158, 127);
+  }
+  .span{
+      margin-top: 0.2rem;
+  }
+  .items{
+      margin-right: 20rem;
+       color: rgb(0, 158, 127);
+       font-weight: 700;
+    }
